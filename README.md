@@ -38,3 +38,12 @@ Click the "Run" button (▶) or press Command + R.
 
 Xcode 13 or later
 macOS Big Sur or later
+
+Technologies Used
+SwiftUI: For building the user interface.
+GitHub API: For fetching repositories and their details.
+URLSession: For networking and API calls.
+
+Known Issues
+The app currently supports filtering by a limited set of programming languages.
+API rate limits may affect performance without authentication.
