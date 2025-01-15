@@ -21,6 +21,20 @@ A SwiftUI-based iOS application to explore GitHub repositories. Users can view a
 
 ## How to Build and Run the App
 
-1. **Clone the Repository**:
+1. Clone the Repository:
    ```bash
    git clone https://github.com/Prudhvi437/githubexplorer.git
+
+2.Open in Xcode:
+
+Open the GitHubExplorer.xcodeproj or GitHubExplorer.xcworkspace file in Xcode.
+
+3.Run the App:
+
+Select a simulator or physical device in Xcode.
+Click the "Run" button (▶) or press Command + R.
+
+4.Requirements:
+
+Xcode 13 or later
+macOS Big Sur or later
