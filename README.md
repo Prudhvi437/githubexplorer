@@ -2,7 +2,7 @@
 
 A SwiftUI-based iOS application to explore GitHub repositories. Users can view a list of repositories, filter them by programming languages, and access detailed information about each repository. The app supports pagination to load more repositories as users scroll.
 
----
+
 
 ## Features
 
@@ -17,7 +17,7 @@ A SwiftUI-based iOS application to explore GitHub repositories. Users can view a
   - Last updated date
 - **Pagination Support**: Loads more repositories as the user scrolls to the bottom of the list.
 
----
+
 
 ## How to Build and Run the App
 
